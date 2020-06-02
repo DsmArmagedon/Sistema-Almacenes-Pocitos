@@ -1,0 +1,58 @@
+.col-nro {
+    width: 6%;
+}
+.col-date {
+    width: 12%;
+}
+.col-input {
+    width: 10%;
+    text-align: right;
+}
+.col-operation {
+    width: 48%;
+}
+.col-58 {
+    width: 58%;
+}
+.col-78 {
+    width: 78%;
+}
+.col-12 {
+    text-align: right;
+    width: 12%;
+}
+.col-output {
+    width: 10%;
+    text-align: right;
+}
+.col-saldo {
+    width: 10%;
+    text-align: right;
+}
+.col-15 {
+    width: 15%;
+    text-align: right;
+}
+.col-type {
+    width: 5%;
+    text-align: right;
+}
+.table {
+    border: black .5px solid;
+    border-collapse: collapse;
+}
+.table tr {
+    border: black .5px solid;
+    border-collapse: collapse;
+}
+.table td {
+    border: black 1px solid;
+    border-collapse: collapse;
+    font-size: 9px;
+}
+.table th {
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:lightblue; 
+}
